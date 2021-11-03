@@ -27,6 +27,14 @@ set(scripts_STAT_SRCS
   Pandaria/TempleJadeSerpent/boss_liu_flameheart.cpp
   Pandaria/TempleJadeSerpent/boss_sha_of_doubt.cpp
 
+  Pandaria/TerraceOfEndlessSpring/instance_terrace_of_endless_spring.cpp
+  Pandaria/TerraceOfEndlessSpring/terrace_of_endless_spring.cpp
+  Pandaria/TerraceOfEndlessSpring/terrace_of_endless_spring.h
+  Pandaria/TerraceOfEndlessSpring/boss_protectors_of_the_endless.cpp
+  Pandaria/TerraceOfEndlessSpring/boss_tsulong.cpp
+  Pandaria/TerraceOfEndlessSpring/boss_lei_shi.cpp
+  Pandaria/TerraceOfEndlessSpring/boss_sha_of_fear.cpp
+
   Pandaria/StormstoutBrewery/boss_hoptallus.cpp
   Pandaria/StormstoutBrewery/boss_ook_ook.cpp
   Pandaria/StormstoutBrewery/boss_yanzhu_the_uncasked.cpp
