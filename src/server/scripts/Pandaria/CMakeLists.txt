@@ -25,12 +25,12 @@ set(scripts_STAT_SRCS
   Pandaria/MogushanPalace/boss_gekkan.cpp
   Pandaria/MogushanPalace/boss_xin_the_weaponmaster.cpp
 
-  Pandaria/TempleOfTheJadeSerpent/instance_temple_of_the_jade_serpent.cpp
-  Pandaria/TempleOfTheJadeSerpent/boss_wise_mari.cpp
-  Pandaria/TempleOfTheJadeSerpent/boss_lorewalker_stonestep.cpp
-  Pandaria/TempleOfTheJadeSerpent/boss_liu_flameheart.cpp
-  Pandaria/TempleOfTheJadeSerpent/boss_sha_of_doubt.cpp
-  Pandaria/TempleOfTheJadeSerpent/temple_of_the_jade_serpent.h
+  Pandaria/TempleJadeSerpent/instance_temple_of_the_jade_serpent.cpp
+  Pandaria/TempleJadeSerpent/boss_wise_mari.cpp
+  Pandaria/TempleJadeSerpent/boss_lorewalker_stonestep.cpp
+  Pandaria/TempleJadeSerpent/boss_liu_flameheart.cpp
+  Pandaria/TempleJadeSerpent/boss_sha_of_doubt.cpp
+  Pandaria/TempleJadeSerpent/temple_of_the_jade_serpent.h
 
   Pandaria/TerraceOfEndlessSpring/instance_terrace_of_endless_spring.cpp
   Pandaria/TerraceOfEndlessSpring/terrace_of_endless_spring.cpp
