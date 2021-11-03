@@ -1,2 +1,1 @@
-# LOA - MOP Development
- LOA - MOP Development
+Legends of Azeroth MOP source  based on public Warmane source
