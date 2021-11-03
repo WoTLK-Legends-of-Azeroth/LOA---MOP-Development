@@ -42,6 +42,16 @@ set(scripts_STAT_SRCS
   Pandaria/GateSettingSun/boss_commander_rimok.cpp
   Pandaria/GateSettingSun/boss_raigonn.cpp
 
+  Pandaria/HeartOfFear/instance_heart_of_fear.cpp
+  Pandaria/HeartOfFear/heart_of_fear.cpp
+  Pandaria/HeartOfFear/heart_of_fear.h
+  Pandaria/HeartOfFear/boss_zorlok.cpp
+  Pandaria/HeartOfFear/boss_tayak.cpp
+  Pandaria/HeartOfFear/boss_garalon.cpp
+  Pandaria/HeartOfFear/boss_meljarak.cpp
+  Pandaria/HeartOfFear/boss_unsok.cpp
+  Pandaria/HeartOfFear/boss_shekzeer.cpp
+
   Pandaria/ShadopanMonastery/instance_shadopan_monastery.cpp
   Pandaria/ShadopanMonastery/shadopan_monastery.cpp
   Pandaria/ShadopanMonastery/shadopan_monastery.h
